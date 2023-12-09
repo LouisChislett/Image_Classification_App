@@ -26,22 +26,20 @@ pip install streamlit Pillow numpy tensorflow
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/LouisChislett/Image_Classification_App.git
    ```
 
 2. Navigate to the cloned repository:
 
    ```bash
-   cd your-repo-name
+   cd Image_Classification_App
    ```
 
 3. Run the app using Streamlit:
 
    ```bash
-   streamlit run your-app-script.py
+   streamlit run app.py
    ```
-
-   Replace `your-app-script.py` with the name of your Python script.
 
 4. The app should now be running on your local server. Streamlit will provide a local URL which you can open in your web browser.
 
