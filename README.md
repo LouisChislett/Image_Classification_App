@@ -45,6 +45,12 @@ pip install streamlit Pillow numpy tensorflow
 
 4. The app should now be running on your local server. Streamlit will provide a local URL which you can open in your web browser.
 
+
+### Usage
+- Once the app is running, you will see an option to upload an image.
+- Upload a `.jpg`, `.jpeg`, or `.png` image file.
+- The app will display the uploaded image and predict its category among the CIFAR-10 classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck).
+
 ### Jupyter Notebook
 The repository also includes a Jupyter Notebook that contains the code for training the image classification model. To run this notebook, you will need to install the following libraries:
 
@@ -61,13 +67,5 @@ These libraries can be installed via pip as follows:
 pip install numpy matplotlib tensorflow seaborn pandas scikit-learn
 ```
 
-### Usage
-- Once the app is running, you will see an option to upload an image.
-- Upload a `.jpg`, `.jpeg`, or `.png` image file.
-- The app will display the uploaded image and predict its category among the CIFAR-10 classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck).
-
-## License
-Add your license information here.
-
 ## Contact
-Add your contact information or how users can contribute to this project.
+For more information, you can contact me on LinkedIn at https://www.linkedin.com/in/louis-chislett-4ba82919b/
