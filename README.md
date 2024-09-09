@@ -1,7 +1,7 @@
 # Image Classification App
 
 ## Introduction
-This image classification app is a simple, user-friendly tool that allows users to upload an image and have it classified into one of the CIFAR-10 categories (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck). The app is built using Streamlit and TensorFlow. Additionally, the repository contains a Jupyter Notebook with the code used to train the model.
+This image classification app is a simple, user-friendly tool that allows users to upload an image and have it classified into one of the CIFAR-10 categories (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck). The app is built using Streamlit. Additionally, the repository contains a Jupyter Notebook with the code used to train the model, which uses TensorFlow to build a convolutional neural network.
 
 ## Getting Started
 
